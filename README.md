@@ -8,7 +8,7 @@ Skills: Python/Bash-Script
 - 🌱 I’m currently learning DevSecOps 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FFurkanArslan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/furkan-arslan-143a421b6//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FFurkanArslan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/furkan-arslan-143a421b6/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FFurkanArslan)](https://github.com/anuraghazra/github-readme-stats)
 
