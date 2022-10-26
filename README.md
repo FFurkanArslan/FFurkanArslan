@@ -2,7 +2,7 @@
 #### I work in the fields of Cyber Security and Devsecops.
 I made projects just for fun and improve my knowledge.
 
-Skills: Python/Bash-Script
+Skills: Python/Bash-Script/Go
 
 - 🔭 I’m currently working on DevSecOps knowledge. 
 
