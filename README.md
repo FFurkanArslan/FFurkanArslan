@@ -4,8 +4,7 @@ I made projects just for fun and improve my knowledge.
 
 Skills: Python/Bash-Script
 
-- 🔭 I’m currently working on CyberSecurity knowledge. 
-- 🌱 I’m currently learning DevSecOps 
+- 🔭 I’m currently working on DevSecOps knowledge. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FFurkanArslan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/furkan-arslan-143a421b6/)  
