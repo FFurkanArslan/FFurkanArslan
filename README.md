@@ -1,6 +1,7 @@
-### Hi there 👋, my name is Furkan
+### Hi there 👋, my name is Furkan.
 #### I work in the fields of Cyber Security and Devsecops.
 I made projects just for fun and improve my knowledge.
+Currently I'm a long term Devops Intern.
 
 Skills: Python/Bash-Script/Go
 
